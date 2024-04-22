@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711969047 source:c:\users\start\desktop\school mark list managment\main.cpp
+	<iostream>
+	<ctype.h>
+	<string.h>
+
